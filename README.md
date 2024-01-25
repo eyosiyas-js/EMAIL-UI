@@ -1,42 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 1.install
+## EMAIL UI
 
-### npm
 
-```
-npm i
-or
-npm i --legacy-peer-deps
-```
+## Screenshots
 
-### yarn
+![App Screenshot](https://github.com/eyosiyas-js/EMAIL-UI/blob/main/public/static/mock-images/covers/image_2024-01-25_11-21-00.png?raw=true)
 
-```
-yarn install
-```
+![App Screenshot](https://github.com/eyosiyas-js/EMAIL-UI/blob/main/public/static/mock-images/covers/image_2024-01-25_11-28-02.png?raw=true)
 
-## 2.Start
+![App Screenshot](https://github.com/eyosiyas-js/EMAIL-UI/blob/main/public/static/mock-images/covers/image_2024-01-25_11-21-15.png?raw=true)
 
-```sh
-npm start
-or
-yarn start
-```
 
-## 3.Build
 
-```sh
-npm run build or yarn build
+## Tech Stack
+
+**Client:** React, Redux, Material UI, more... 
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/eyosiyas-js/EMAIL-UI.git
 ```
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Go to the project directory
 
-The build is minified and the filenames include the hashes.<br>
+```bash
+  cd EMAIL-UI
+```
 
-Your app is ready to be deployed.
+Install dependencies
 
-## User Guide
+```bash
+  yarn 
+```
 
-You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
+Start the server
+
+```bash
+  yarn start
+```
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at eyosiyasat@gmail.com
+
