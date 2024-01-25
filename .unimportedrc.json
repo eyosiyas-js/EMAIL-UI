@@ -1,0 +1,5 @@
+{
+  "ignoreUnresolved": [],
+  "ignoreUnused": ["history", "react-intersection-observer", "react-scripts"],
+  "ignoreUnimported": []
+}
